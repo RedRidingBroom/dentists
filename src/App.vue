@@ -14,7 +14,7 @@
       <router-view></router-view>
     </v-content>
 
-    <v-navigation-drawer class="primary" v-model="drawer" app>
+    <v-navigation-drawer class="primary" v-model="drawer"  temporary absolute>
 
       <v-list dark>
         <v-list-item v-for="item in items" router :to="item.link" :key="item.title" link>

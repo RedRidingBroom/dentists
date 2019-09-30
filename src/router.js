@@ -12,7 +12,7 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
+      path: '',
       name: 'page',
       component: Page
     },
@@ -30,6 +30,10 @@ export default new Router({
       path: '/information',
       name: 'information',
       component: Information
+    },
+    {
+      path: '/index.html',
+      component: Page
     }
   ]
 })

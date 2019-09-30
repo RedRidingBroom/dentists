@@ -5,7 +5,7 @@
         <v-row justify="center" align-content="center" class="mb-5">
           <h1 class="display-3 primary--text text-center">Χρήσιμες Πληροφορίες</h1>
         </v-row>
-        <hr>
+        <v-divider></v-divider>
         <v-row justify="center" align-content="center" class="mt-5">
             <h2 class="headline text-center">39ο ΠΑΝΕΛΛΗΝΙΟ ΟΔΟΝΤΙΑΤΡΙΚΟ ΣΥΝΕΔΡΙΟ</h2>
         </v-row>
@@ -13,7 +13,7 @@
     </v-row>
 
     <v-row justify="center">
-      <v-col cols="10" md="8" lg="12" >
+      <v-col cols="10" md="8" lg="12" xl="10">
         <v-row  justify="center">
           <v-expansion-panels multiple>
             <v-expansion-panel>
