@@ -15,21 +15,21 @@
     <v-row justify="center">
       <v-col cols="10" md="8" lg="12" xl="10">
         <v-row  justify="center">
-          <v-expansion-panels multiple>
-            <v-expansion-panel>
+          <v-expansion-panels multiple >
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Θέμα</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Εξατομικευμένη Οδοντιατρική: από τη Διάγνωση στα Θεραπευτικά Πρωτόκολλα</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Χώρος Διεξαγωγής 39ου ΠΟΣ</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>
                   Πολιτιστικό & Συνεδριακό Κέντρο Ηρακλείου
                   <br />Πλαστήρα & Ρωμανού, 71201 Ηράκλειο
@@ -37,29 +37,29 @@
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Ημερομηνία Διεξαγωγής Συνεδρίου</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>24 έως 26 Οκτωβρίου 2019</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Επίσημη ιστοσελίδα συνεδρίου</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <a href="http://39pos.eoo.gr/">http://39pos.eoo.gr/</a>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Εταιρεία Διοργάνωσης - Γραμματειακής Υποστήριξης Συνεδρίου</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>
                   Everest Travel & Congresses
                   <br />Λυκούργου 14-16, 105 52 Αθήνα
@@ -72,43 +72,43 @@
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Σύνεδροι</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Το Συνέδριο απευθύνεται σε Οδοντιάτρους και φοιτητές Οδοντιατρικής. Με τη δήλωση συμμετοχής του ο Σύνεδρος οφείλει να δηλώσει ταυτόχρονα την ιδιότητά του και να καταβάλλει το αντίστοιχο ποσό συμμετοχής.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Γραμματεία</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Η Γραμματεία του 39oυ ΠΟΣ θα λειτουργεί καθ’ όλη τη διάρκεια διεξαγωγής του και θα βρίσκεται στη διάθεση των συνέδρων, για οποιαδήποτε διευκρίνιση ή πληροφορία. Για οτιδήποτε έχει σχέση με το Συνέδριο (πρόγραμμα, αίθουσες, εκθέτες, σχεδιαγράμματα των χώρων, οδηγίες, κ.λ.π.) οι ενδιαφερόμενοι θα μπορούν να απευθύνονται στη Γραμματεία του Συνεδρίου, ή να ανατρέχουν στην επίσημη ιστοσελίδα αυτού.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Κονκάρδες Συνέδρων (badges)</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Οι ονομαστικές κονκάρδες (badges) είναι ΑΠΑΡΑΙΤΗΤΕΣ για την είσοδο στις αίθουσες, αλλά και τους εκθεσιακούς χώρους του Συνεδρίου. Παραδίδονται από τη Γραμματεία του Συνεδρίου ταυτόχρονα με την εγγραφή του κάθε σύνεδρου. Η ΕΙΣΟΔΟΣ ΣΤΟ ΣΥΝΕΔΡΙΑΚΟ ΚΕΝΤΡΟ ΘΑ ΕΠΙΤΡΕΠΕΤΑΙ ΜΟΝΟ ΣΕ ΟΣΟΥΣ ΕΧΟΥΝ ΟΝΟΜΑΣΤΙΚΗ ΚΟΝΚΑΡΔΑ.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Γλώσσα</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Η επίσημη γλώσσα του Συνεδρίου είναι η Ελληνική. Για τις ομιλίες των ξένων προσκεκλημένων ομιλητών δεν θα υπάρχει μετάφραση</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Υλικό Συνεδρίου</h3>
               </v-expansion-panel-header>
@@ -122,47 +122,47 @@
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Μοριοδότηση Συνεδρίου</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Η παρακολούθηση του Συνεδρίου θα μοριοδοτηθεί με βάση το Σύστημα της Συνεχιζόμενης Επιμόρφωσης Οδοντιάτρων (Σ.Ε.Ο.Ο.) της Ελληνικής Οδοντιατρικής Ομοσπονδίας.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Βεβαιώσεις παρακολούθησης</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Βεβαιώσεις παρακολούθησης θα δοθούν στους συμμετέχοντες στα Κλινικά Φροντιστήρια/ Πρακτικά Σεμινάρια, καθώς επίσης και σε όσους παρουσιάζουν τις Ελεύθερες και Αναρτημένες Ανακοινώσεις.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Ευχαριστούν</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Οι συντονιστές και οι ομιλητές του Κατευθυνόμενου Προγράμματος θα λάβουν ευχαριστήριες επιστολές «ΕΥΧΑΡΙΣΤΟΥΝ»</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Έκθεση οδοντιατρικών υλικών και εργαλείων:</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Στο πλαίσιο του 39ου ΠΟΣ θα λειτουργεί έκθεση οδοντιατρικών υλικών και εργαλείων. Δικαίωμα επίσκεψης στην έκθεση έχουν ΑΠΟΚΛΕΙΣΤΙΚΑ ΚΑΙ ΜΟΝΟ οι εγγεγραμμένοι σύνεδροι.</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
 
-            <v-expansion-panel>
+            <v-expansion-panel class="primary lighten-3">
               <v-expansion-panel-header>
                 <h3 class="headline font-weight-light text-center">Parking</h3>
               </v-expansion-panel-header>
-              <v-expansion-panel-content>
+              <v-expansion-panel-content class="text-center">
                 <p>Το Συνεδριακό Κέντρο διαθέτει χώρο στάθμευσης (υπόγειο στεγασμένο πάρκινγκ)</p>
               </v-expansion-panel-content>
             </v-expansion-panel>
