@@ -1,6 +1,105 @@
 <template>
-  <v-container>
-    <v-row justify="start" class="mx-1">
+  <v-container class="cont">
+    <v-row>
+      <v-card class="mx-auto" max-width="344" outlined>
+        <v-list-item three-line>
+          <v-list-item-content>
+            <v-list-item-title class="headline mb-1">Αθανάσιος <br> Δεβλιώτης</v-list-item-title>
+            <v-list-item-subtitle>Πρόεδρος της Ελληνικής Οδοντιατρικής Ομοσπονδίας</v-list-item-subtitle>
+          </v-list-item-content>
+
+          <v-list-item-avatar tile size="80" color="grey">
+            <v-img src="../../public/img/devliotis.jpg"></v-img>
+          </v-list-item-avatar>
+        </v-list-item>
+
+        <v-card-actions>
+          <v-btn text>ΜΗΝΥΜΑ</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-row>
+
+    <v-row class="mt-5">
+      <v-card class="mx-auto" max-width="344" outlined>
+        <v-list-item three-line>
+          <v-list-item-content>
+            <v-list-item-title class="headline mb-1">Νικόλαος Γ. Νικητάκης</v-list-item-title>
+            <v-list-item-subtitle>Πρόεδρος Οργανωτικής Επιτροπής 39ου ΠΟΣ</v-list-item-subtitle>
+          </v-list-item-content>
+
+          <v-list-item-avatar tile size="80" color="grey">
+            <v-img src="../../public/img/39president.jpeg"></v-img>
+          </v-list-item-avatar>
+        </v-list-item>
+
+        <v-card-actions>
+          <v-btn text>ΜΗΝΥΜΑ</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-row>
+
+    <v-row class="mt-5">
+      <v-card class="mx-auto" max-width="344" outlined>
+        <v-list-item three-line>
+          <v-list-item-content>
+            
+            <v-list-item-title class="headline mb-1">Πρόεδροι Ο.Σ. Κρήτης</v-list-item-title>
+            <v-list-item-subtitle>Πατήστε το κουμπί για περισσότερα</v-list-item-subtitle>
+          </v-list-item-content>
+
+         
+        </v-list-item>
+
+        <v-card-actions>
+          <v-btn text>ΜΗΝΥΜΑ</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-row>
+
+    <!-- <v-row no-gutters class="top" align="center" router-link to="/messages/first">
+
+        <v-col class="column" cols="3" offset="1">
+          <v-img class="img" src="../../public/img/39president.jpeg" aspect-ratio="0.625"></v-img>
+        </v-col>
+
+        <v-col cols="8" offset="0">
+          <v-row justify="center">
+            <p class="white--text mt-12"> ONOMA EPONUMO</p>
+          </v-row>
+        </v-col>
+    
+
+
+    </v-row>
+
+     <v-row no-gutters class="top" align="center">
+
+        <v-col class="column" cols="3" offset="1">
+          <v-img class="img" src="../../public/img/39president.jpeg" aspect-ratio="0.625"></v-img>
+        </v-col>
+
+        <v-col cols="8" offset="0">
+          <v-row justify="center">
+            <p class="white--text mt-12"> ONOMA EPONUMO</p>
+          </v-row>
+        </v-col>
+    
+    </v-row>
+
+     <v-row no-gutters class="top" align="center">
+
+        <v-col class="column" cols="3" offset="1">
+          <v-img class="img" src="../../public/img/39president.jpeg" aspect-ratio="0.625"></v-img>
+        </v-col>
+
+        <v-col cols="8" offset="0">
+          <v-row justify="center">
+            <p class="white--text mt-12"> ONOMA EPONUMO</p>
+          </v-row>
+        </v-col>
+
+    </v-row>-->
+    <!-- <v-row justify="start" class="mx-1">
       <v-col cols="12"></v-col>
       <v-btn small class="orange mt-2" dark @click="card = 'first'">
         <span class="font-weight-regular">μηνυμα προεδου επο</span>
@@ -114,7 +213,7 @@
           </transition>
         </v-row>
       </v-col>
-    </v-row>
+    </v-row>-->
   </v-container>
 </template>
 
@@ -132,10 +231,25 @@ export default {
 </script>
 
 <style scoped>
+
+.cont{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom-card {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  left: 0;
+  align-self: flex-end;
+}
+
 .slide-leave-active,
 .slide-enter-active {
   transition: 0.2s;
-
 }
 .slide-enter {
   transform: translate(100%, 0);
@@ -143,5 +257,4 @@ export default {
 .slide-leave-to {
   transform: translate(-100%, 0);
 }
-
 </style>

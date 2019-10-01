@@ -29,7 +29,7 @@
         </v-row>
       </v-col>
 
-       <v-col cols="6" offset="3" lg="2" offset-lg="0" md="3" offset-md="1">
+       <v-col cols="8" offset="2" lg="2" offset-lg="0" md="3" offset-md="1">
         <v-row justify="center">
           <v-img src="../../public/img/dental_co.png"></v-img>
         </v-row>

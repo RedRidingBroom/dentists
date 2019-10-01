@@ -10,7 +10,8 @@ export default new Vuetify({
   theme: {
     themes: {
       light: {
-        primary: '#607D8B'
+        primary: '#28638d',
+        orange: '#f7a434'
       }
     }
   }
