@@ -35,9 +35,10 @@ export default {
     drawer: null,
     items: [
           { title: 'Αρχική Σελίδα', link: '/' },
+          { title: 'Χρήσιμες Πληροφορίες', link: '/information' },
           { title: 'Μηνύματα Προέδρων', link: '/messages' },
-          { title: 'Σπόνσορες', link: '/sponsors' },
-          { title: 'Χρήσιμες Πληροφορίες', link: '/information' }
+          { title: 'Χορηγοί', link: '/sponsors' }
+          
         ],
   })
 };
