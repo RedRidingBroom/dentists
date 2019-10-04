@@ -1,0 +1,35 @@
+[debug] [2019-10-04T09:09:30.104Z] ----------------------------------------------------------------------
+[debug] [2019-10-04T09:09:30.106Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2019-10-04T09:09:30.106Z] CLI Version:   7.4.0
+[debug] [2019-10-04T09:09:30.106Z] Platform:      linux
+[debug] [2019-10-04T09:09:30.106Z] Node Version:  v10.16.3
+[debug] [2019-10-04T09:09:30.106Z] Time:          Fri Oct 04 2019 12:09:30 GMT+0300 (Eastern European Summer Time)
+[debug] [2019-10-04T09:09:30.106Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-04T09:09:30.115Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-04T09:09:30.115Z] > authorizing via signed-in user
+[debug] [2019-10-04T09:09:30.116Z] [iam] checking project dentists-vue-front-pwa for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-10-04T09:09:30.117Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-10-04T09:09:30.117Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-10-04T09:09:30.556Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-04T09:09:30.561Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/dentists-vue-front-pwa:testIamPermissions  
+
+[debug] [2019-10-04T09:09:31.750Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-04T09:09:31.754Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/dentists-vue-front-pwa  
+ 
+[debug] [2019-10-04T09:09:32.272Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'dentists-vue-front-pwa'...
+[info] 
+[info] i  deploying hosting
+[debug] [2019-10-04T09:09:32.285Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/dentists-vue-front-pwa/versions  
+
+[debug] [2019-10-04T09:09:34.380Z] <<< HTTP RESPONSE 200
+[info] i  hosting[dentists-vue-front-pwa]: beginning deploy...
+[info] i  hosting[dentists-vue-front-pwa]: found 39 files in dist
+[debug] [2019-10-04T09:09:34.401Z] [hosting] hash cache [ZGlzdA] load error: lines is not defined
+[debug] [2019-10-04T09:09:34.585Z] [hosting] hash cache [ZGlzdA] stored for 39 files
+[debug] [2019-10-04T09:09:34.585Z] [hosting][hash queue][FINAL]
+[debug] [2019-10-04T09:09:34.585Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/dentists-vue-front-pwa/versions/9a25a010b0f967ec:populateFiles  
+ <request body omitted>
