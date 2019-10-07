@@ -17,7 +17,7 @@
     <v-row class="mt-4">
  <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block  tile dark color="orange"><v-icon left>mdi-calendar</v-icon>Πρoγραμμα</v-btn>
+          <v-btn block  tile dark color="orange" @click="$router.push({path: '/program'})"><v-icon left>mdi-calendar</v-icon>Πρoγραμμα</v-btn>
         </v-row>
       </v-col>
     </v-row>
