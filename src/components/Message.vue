@@ -3,7 +3,7 @@
     <v-row class="mx-1" justify="center">
       <v-col cols="12">
         <v-row justify="center">
-          <v-card v-if="this.$route.params.name==='devliotis'" class="mt-5">
+          <v-card v-if="this.$route.params.name==='devliotis'">
             <v-card-title>
               <h3 class="headline text-center">
                 Μήνυμα του Προέδρου
@@ -33,7 +33,7 @@
             </v-card-text>
           </v-card>
 
-          <v-card v-else-if="this.$route.params.name==='39president'" class="mt-5">
+          <v-card v-else-if="this.$route.params.name==='39president'">
             <v-card-title>
               <h3 class="headline text-center">Μήνυμα του Προέδρου της Ο.Ε. του 39ου ΠΟΣ</h3>
             </v-card-title>
@@ -61,7 +61,7 @@
             </v-card-text>
           </v-card>
 
-          <v-card v-if="this.$route.params.name==='crete'" class="mt-5">
+          <v-card v-if="this.$route.params.name==='crete'">
             <v-card-title>
               <h3 class="headline text-center">Μύνυμα των Προέδρων των Ο.Σ. Κρήτης</h3>
             </v-card-title>
