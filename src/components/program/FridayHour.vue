@@ -10,42 +10,51 @@
     <v-row>
       <v-col cols="12">
         <v-row justify="center" class="myRow">
-          <h3 class="subtitle-2">(A1) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
+          <h3 class="subtitle-2">(B1) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
+          <p class="text-center">
+            <span class="font-weight-bold">Θεματική κατηγορία:</span>Προσθετική Ακίνητη
+          </p>
+          <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
+        </v-row>
+
+        <v-divider></v-divider>
+
+        <v-row justify="center" class="mt-2 myRow">
+          <h3 class="subtitle-2">(B2) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
+          <p class="text-center">
+            <span class="font-weight-bold">Θεματική κατηγορία:</span> Στοματολογία
+          </p>
+          <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
+        </v-row>
+
+        <v-divider></v-divider>
+
+        <v-row justify="center" class="mt-2 myRow">
+          <h3 class="subtitle-2">(B3) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
           <p class="text-center">
             <span class="font-weight-bold">Θεματική κατηγορία:</span> Στοματική και
             Γναθοπροσωπική Χειρουργική
           </p>
-          <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
-        </v-row>
-        <v-divider></v-divider>
-        <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A2) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
-          <p class="text-center">
-            <span class="font-weight-bold">Θεματική κατηγορία:</span> Νοσοκομειακή
-            Οδοντιατρική, Γηροδοντιατρική
-          </p>
-          <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
-        </v-row>
-        <v-divider></v-divider>
-        <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A3) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
-          <p class="text-center">
-            <span class="font-weight-bold">Θεματική κατηγορία:</span> Εμφυτευματολογία
-          </p>
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
+
         <v-divider></v-divider>
+
         <v-row justify="center" class="mt-2 myRow">
           <h3 class="subtitle-2">(A4) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
           <p class="text-center">
             <span class="font-weight-bold">Θεματικές κατηγορίες:</span>Εμφυτευματολογία,
-            Νοσοκομειακή Οδοντιατρική, Γηροδοντιατρική
+            Στοματοπροσωπικός Πόνος - Φυσιολογία
+            Στοματογναθικού Συστήματος, Σύγχρονες
+            Τεχνολογίες
           </p>
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
         </v-row>
       </v-col>
     </v-row>
+
     <v-divider></v-divider>
+
     <v-row>
       <v-col cols="12">
         <v-row justify="center">
@@ -56,56 +65,70 @@
 
     <v-row>
       <v-col cols="12">
+
         <v-row justify="center" class="myRow">
           <h3 class="subtitle-2">
-            (A5)
+            (B5)
             ΣΤ 90'
-            Οδοντιατρική Φροντίδα των Αθλητών
+            Απεικονιστικά Χαρακτηριστικά Διογκώσεων
+της Γναθοπροσωπικής Χώρας
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span>Κουιμτζής Θ.
+            <span class="font-weight-bold">Συντονισμός: </span>Τσιχλάκης Κ.
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span> Κυρανούδη Α., Λοϊζος Ε., Κουιμτζής Θ.
+            <span class="font-weight-bold">Ομιλητές: </span>  Αγγελόπουλος Χ., Αλεξίου Ν.,
+Καραγιάννη Κ., Τσιχλάκης Κ
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
+
         <v-divider></v-divider>
-        <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A6) ΕΙ 30'</h3>
-          <p class="text-center">
-            <span class="font-weight-bold">Μπογοσιάν Ε.:</span>Οδοντιατρικοί ασθενείς υπό αντιπηκτική αγωγή - θεραπευτικά πρωτόκολλα
-          </p>
 
-          <h3 class="subtitle-2">(A6) ΕΙ 30'</h3>
+        <v-row justify="center" class="myRow">
+          <h3 class="subtitle-2">
+            (B6)
+            ΣΤ 90'
+            Ο ρόλος της διατροφής στη στοματική υγεία
+διαφόρων ηλικιακών ομάδων ασθενών
+          </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Ηγουμενάκης Δ.:</span>Αντιμετώπιση των οδοντογενώνλοιμώξεων. Πού, πώς, πότε;
+            <span class="font-weight-bold">Συντονισμός: </span>Ραχιώτης Χ.
           </p>
-
-          <h3 class="subtitle-2">(A6) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Μπογοσιάν Ε.:</span>Οδοντιατρικοί ασθενείς σε κίνδυνο
-            για οστεονέκρωση - θεραπευτικά πρωτόκολλα
+            <span class="font-weight-bold">Ομιλητές: </span>   Παξιμαδά Χ., Αγουρόπουλος Α., Γκαβέλα
+Γ.
+Καραγιάννη Κ., Τσιχλάκης Κ
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
+
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
           <h3 class="subtitle-2 text-center">
-            (A7) ΣΤ 90'
-            "Έξυπνη" Στοματολογία. Διαφορική διάγνωση
-            σημείων και συμπτωμάτων τοπικών και
-            συστηματικών νόσων της στοματικής
-            κοιλότητας με αλγοριθμική προσέγγιση
+            (B7) ΕΙ 30'
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Στουφή Ε
+            <span class="font-weight-bold">Νταμπαράκης Ν: </span> Σύγχρονα θεραπευτικά
+πρωτόκολλα στην Οδοντιατρική Αναισθησιολογία
           </p>
+
+          <h3 class="subtitle-2 text-center">
+            (B7) ΕΙ 30'
+          </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span> Διαμαντή Σ., Δούκα Μ.,
-            Γεωργακοπούλου Ε., Μαλάμος Δ.
-          </p>
+            <span class="font-weight-bold">Στουφή Ε: </span>  Ειδικές ουλίτιδες. Διαγνωστική και
+Θεραπευτική Προσέγγιση</p>
+
+          <h3 class="subtitle-2 text-center">
+            (B7) ΕΙ 30'
+          </h3>
+          <p class="text-center">
+            <span class="font-weight-bold">Παναγή N.: </span> Αντιμετώπιση ορθοδοντικών
+ανωμαλιών με τρισδιάστατες ορθοδοντικές
+συσκευές. Σχεδιασμός, εκτύπωση, θεραπεία. </p>
+
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
 
@@ -113,26 +136,29 @@
 
         <v-row justify="center" class="mt-2 myRow">
           <h3 class="subtitle-2 text-center">
-            (A8) Η ΣΗΜΑΣΙΑ ΤΗΣ ΔΙΕΠΙΣΤΗΜΟΝΙΚΗΣ
-            ΣΥΝΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗΝ ΕΞΑΤΟΜΙΚΕΥΜΕΝΗ
-            ΑΝΤΙΜΕΤΩΠΙΣΗ ΣΥΝΘΕΤΩΝ ΠΕΡΙΣΤΑΤΙΚΩΝ:
-            ΠΑΡΟΥΣΙΑΣΗ ΕΠΙΛΕΓΜΕΝΩΝ ΠΕΡΙΠΤΩΣΕΩΝ
-            ΑΠΟ ΜΕΤΑΠΤΥΧΙΑΚΟΥΣ ΦΟΙΤΗΤΕΣ
+            (B8) Η ΣΗΜΑΣΙΑ ΤΗΣ ΔΙΕΠΙΣΤΗΜΟΝΙΚΗΣ
+ΣΥΝΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗΝ ΕΞΑΤΟΜΙΚΕΥΜΕΝΗ
+ΑΝΤΙΜΕΤΩΠΙΣΗ ΣΥΝΘΕΤΩΝ ΠΕΡΙΣΤΑΤΙΚΩΝ:
+ΠΑΡΟΥΣΙΑΣΗ ΕΠΙΛΕΓΜΕΝΩΝ ΠΕΡΙΠΤΩΣΕΩΝ
+ΑΠΟ ΜΕΤΑΠΤΥΧΙΑΚΟΥΣ ΦΟΙΤΗΤΕΣ
+
           </h3>
           <p class="text-center">
-            Παιδοδοντιατρική, Ορθοδοντική, Νοσοκομειακή
-            Οδοντιατρική, Ενδοδοντία
+            Προσθετική, Ενδοδοντία, Περιοδοντολογία,
+Επανορθωτική Οδοντιατρική
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span>Βαγδούτη Γ., Λιάτση Α., Μακρυγιάννης
-            Ι., Μυλωνοπούλου Ι.Μ., Σακκά Α., Ταγκαλάκη Α.,
-            Τριμερίδου Α. Σ., Χαρίση Χ.
+            <span class="font-weight-bold">Ομιλητές:</span> Δημοπούλου Μ., Ελ-Σιούφι Ι.,
+Μολδοβάνη Δ., Οικονόμου Η., Νικολάκης Μ.
           </p>
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
         </v-row>
       </v-col>
     </v-row>
     <v-divider></v-divider>
+
+    <!-- I HAVE DONE UNTIL HERE ++++++++++++++++++++++++________________________++++++++++++++++++++++++++++++++++_________________________________ TODO -->
+
 
     <v-row>
       <v-col cols="12">
@@ -179,14 +205,14 @@
             (A10)
             ΣΤ 90'
             Η εξατομικευμένη προσέγγιση στην
-οδοντιατρική αντιμετώπιση του ασθενούς με
-συνοδά νοσήματα
+            οδοντιατρική αντιμετώπιση του ασθενούς με
+            συνοδά νοσήματα
           </h3>
           <p class="text-center">
             <span class="font-weight-bold">Συντονισμός:</span> Βάρδας Ε
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές: </span>Βάρδας Ε., Καλφαρέντζος Ε., Μητσέα Α
+            <span class="font-weight-bold">Ομιλητές:</span>Βάρδας Ε., Καλφαρέντζος Ε., Μητσέα Α
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
