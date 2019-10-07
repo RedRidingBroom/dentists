@@ -1,7 +1,10 @@
 <template>
   <v-container class="cont">
-    <v-row>
-      <v-co></v-co>
+
+
+   
+    <v-row class="mt-5">
+ 
       <v-card class="mx-auto" max-width="344" outlined>
         <v-list-item three-line>
           <v-list-item-content>
@@ -56,6 +59,7 @@
         </v-card-actions>
       </v-card>
     </v-row>
+    
   </v-container>
 </template>
 
