@@ -65,20 +65,19 @@
 
     <v-row>
       <v-col cols="12">
-
         <v-row justify="center" class="myRow">
           <h3 class="subtitle-2">
             (B5)
             ΣΤ 90'
             Απεικονιστικά Χαρακτηριστικά Διογκώσεων
-της Γναθοπροσωπικής Χώρας
+            της Γναθοπροσωπικής Χώρας
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός: </span>Τσιχλάκης Κ.
+            <span class="font-weight-bold">Συντονισμός:</span>Τσιχλάκης Κ.
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές: </span>  Αγγελόπουλος Χ., Αλεξίου Ν.,
-Καραγιάννη Κ., Τσιχλάκης Κ
+            <span class="font-weight-bold">Ομιλητές:</span> Αγγελόπουλος Χ., Αλεξίου Ν.,
+            Καραγιάννη Κ., Τσιχλάκης Κ
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
@@ -90,15 +89,15 @@
             (B6)
             ΣΤ 90'
             Ο ρόλος της διατροφής στη στοματική υγεία
-διαφόρων ηλικιακών ομάδων ασθενών
+            διαφόρων ηλικιακών ομάδων ασθενών
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός: </span>Ραχιώτης Χ.
+            <span class="font-weight-bold">Συντονισμός:</span>Ραχιώτης Χ.
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές: </span>   Παξιμαδά Χ., Αγουρόπουλος Α., Γκαβέλα
-Γ.
-Καραγιάννη Κ., Τσιχλάκης Κ
+            <span class="font-weight-bold">Ομιλητές:</span> Παξιμαδά Χ., Αγουρόπουλος Α., Γκαβέλα
+            Γ.
+            Καραγιάννη Κ., Τσιχλάκης Κ
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
@@ -106,28 +105,24 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2 text-center">
-            (B7) ΕΙ 30'
-          </h3>
+          <h3 class="subtitle-2 text-center">(B7) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Νταμπαράκης Ν: </span> Σύγχρονα θεραπευτικά
-πρωτόκολλα στην Οδοντιατρική Αναισθησιολογία
+            <span class="font-weight-bold">Νταμπαράκης Ν:</span> Σύγχρονα θεραπευτικά
+            πρωτόκολλα στην Οδοντιατρική Αναισθησιολογία
           </p>
 
-          <h3 class="subtitle-2 text-center">
-            (B7) ΕΙ 30'
-          </h3>
+          <h3 class="subtitle-2 text-center">(B7) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Στουφή Ε: </span>  Ειδικές ουλίτιδες. Διαγνωστική και
-Θεραπευτική Προσέγγιση</p>
+            <span class="font-weight-bold">Στουφή Ε:</span> Ειδικές ουλίτιδες. Διαγνωστική και
+            Θεραπευτική Προσέγγιση
+          </p>
 
-          <h3 class="subtitle-2 text-center">
-            (B7) ΕΙ 30'
-          </h3>
+          <h3 class="subtitle-2 text-center">(B7) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Παναγή N.: </span> Αντιμετώπιση ορθοδοντικών
-ανωμαλιών με τρισδιάστατες ορθοδοντικές
-συσκευές. Σχεδιασμός, εκτύπωση, θεραπεία. </p>
+            <span class="font-weight-bold">Παναγή N.:</span> Αντιμετώπιση ορθοδοντικών
+            ανωμαλιών με τρισδιάστατες ορθοδοντικές
+            συσκευές. Σχεδιασμός, εκτύπωση, θεραπεία.
+          </p>
 
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
@@ -137,28 +132,36 @@
         <v-row justify="center" class="mt-2 myRow">
           <h3 class="subtitle-2 text-center">
             (B8) Η ΣΗΜΑΣΙΑ ΤΗΣ ΔΙΕΠΙΣΤΗΜΟΝΙΚΗΣ
-ΣΥΝΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗΝ ΕΞΑΤΟΜΙΚΕΥΜΕΝΗ
-ΑΝΤΙΜΕΤΩΠΙΣΗ ΣΥΝΘΕΤΩΝ ΠΕΡΙΣΤΑΤΙΚΩΝ:
-ΠΑΡΟΥΣΙΑΣΗ ΕΠΙΛΕΓΜΕΝΩΝ ΠΕΡΙΠΤΩΣΕΩΝ
-ΑΠΟ ΜΕΤΑΠΤΥΧΙΑΚΟΥΣ ΦΟΙΤΗΤΕΣ
-
+            ΣΥΝΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗΝ ΕΞΑΤΟΜΙΚΕΥΜΕΝΗ
+            ΑΝΤΙΜΕΤΩΠΙΣΗ ΣΥΝΘΕΤΩΝ ΠΕΡΙΣΤΑΤΙΚΩΝ:
+            ΠΑΡΟΥΣΙΑΣΗ ΕΠΙΛΕΓΜΕΝΩΝ ΠΕΡΙΠΤΩΣΕΩΝ
+            ΑΠΟ ΜΕΤΑΠΤΥΧΙΑΚΟΥΣ ΦΟΙΤΗΤΕΣ
           </h3>
           <p class="text-center">
             Προσθετική, Ενδοδοντία, Περιοδοντολογία,
-Επανορθωτική Οδοντιατρική
+            Επανορθωτική Οδοντιατρική
           </p>
           <p class="text-center">
             <span class="font-weight-bold">Ομιλητές:</span> Δημοπούλου Μ., Ελ-Σιούφι Ι.,
-Μολδοβάνη Δ., Οικονόμου Η., Νικολάκης Μ.
+            Μολδοβάνη Δ., Οικονόμου Η., Νικολάκης Μ.
           </p>
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
+        </v-row>
+
+        <v-row justify="center" class="mt-2 myRow">
+          <h3 class="subtitle-2 text-center">(ΠΡ2) ΠΡΑΚΤΙΚΟ ΣΕΜΙΝΑΡΙΟ 2</h3>
+          <p class="text-center font-weight-bold">
+            Τομές, κρημνοί και συρραφές
+            στην περιοδοντολογία
+          </p>
+          <p class="text-center">
+            <span class="font-weight-bold">Εκπαιδευτής:</span> Σιλβέστρος Σ
+          </p>
+          <p class="text-center">ΑΙΘΟΥΣΑ ΣΕΜΙΝΑΡΙΩΝ Β'</p>
         </v-row>
       </v-col>
     </v-row>
     <v-divider></v-divider>
-
-    <!-- I HAVE DONE UNTIL HERE ++++++++++++++++++++++++________________________++++++++++++++++++++++++++++++++++_________________________________ TODO -->
-
 
     <v-row>
       <v-col cols="12">
@@ -184,17 +187,16 @@
       <v-col cols="12">
         <v-row justify="center" class="myRow">
           <h3 class="subtitle-2 text-center">
-            (A9)
+            (Β9)
             ΣΤ 90'
-            Η Εξατομίκευση της Αισθητικής στην
-            Επανορθωτική Οδοντιατρική
+            Αντιοστεολυτική αγωγή: Μύθοι και πραγματικότητα
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span>Τριποδάκης Α.Π
+            <span class="font-weight-bold">Συντονισμός:</span>Μελακόπουλος Ι
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span>Τριποδάκης Δ., Παπανικολάου Α.,
-            Τριποδάκης Α.Π.
+            <span class="font-weight-bold">Ομιλητές:</span> Μαδιανός Φ., Μελακόπουλος Ι.,
+            Μερκουρέα Σ., Χούπης Κ.
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
@@ -202,61 +204,55 @@
 
         <v-row justify="center" class="myRow">
           <h3 class="subtitle-2 text-center">
-            (A10)
+            (B10)
             ΣΤ 90'
-            Η εξατομικευμένη προσέγγιση στην
-            οδοντιατρική αντιμετώπιση του ασθενούς με
-            συνοδά νοσήματα
+            Ο ρόλος της Ενδοδοντίας στην κατάρτιση
+            εξατομικευμένου σχεδίου θεραπείας
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Βάρδας Ε
+            <span class="font-weight-bold">Συντονισμός :</span>Γεωργοπούλου Μ
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span>Βάρδας Ε., Καλφαρέντζος Ε., Μητσέα Α
+            <span class="font-weight-bold">Ομιλητές :</span>Ιωαννίδη Α., Νικολάκης Μ., Σίσκος Χ., Σπυροπούλου Κ. Π.
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A11) ΕΙ 30'</h3>
+          <h3 class="subtitle-2 text-center">
+            (Β11) ΣΤ 90' Διευρύνοντας τις θεραπευτικές επιλογές των
+            αποκαταστάσεων ζιρκονίας: Συγκόλληση,
+            αισθητική και laser
+          </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Σταθόπουλος Β.:</span> Ο ρόλος του Ορθοδοντικού στο
-            Σύνδρομο Αποφρακτικής Άπνοιας Ύπνου
+            <span class="font-weight-bold">Συντονισμός:</span> Τζούτζας Ι
           </p>
 
           <h3 class="subtitle-2">(A11) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Νακοπούλου Κ., Βεσαλά Α.Μ.:</span>Αλήθειες και
-            Μύθοι για το PRF στην χειρουργική στόματος και
-            στην αισθητική της περιστοματικής περιοχής
+            <span class="font-weight-bold">Ομιλητές:</span> Τζανακάκης Ε., Συμεωνίδης Π., Σκουλάς
+            Ε.
           </p>
 
-          <h3 class="subtitle-2">(A11) ΕΙ 30'</h3>
-          <p class="text-center">
-            <span class="font-weight-bold">Φραγκίσκος Φ.:</span> Αξιολόγηση των Παραγόντων
-            Κινδύνου με Βάση τα Σύγχρονα Πρωτόκολλα για την
-            Επιτυχία των Οδοντικών Εμφυτευμάτων
-          </p>
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2 text-center">(ΚΛ1) 12:00-14:00</h3>
+          <h3 class="subtitle-2 text-center">(ΚΛ3) 12:00-14:00</h3>
           <p class="text-center">
-            <span class="font-weight-bold">ΚΛΙΝΙΚΟ ΦΡΟΝΤΙΣΤΗΡΙΟ 1</span>
+            <span class="font-weight-bold">ΚΛΙΝΙΚΟ ΦΡΟΝΤΙΣΤΗΡΙΟ 3</span>
           </p>
           <p class="text-center">
             <span class="font-weight-bold">
-              Ο Οδοντίατρος σε ρόλο Coach για τον ασθενή
-              του
+              Χρήση των PRF στην χειρουργική στόματος
+              και στην αισθητική του προσώπου
             </span>
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Εισηγητές:</span> Ζησόπουλος Σ., Γιάτση Ι.,
-            Κωστοπούλου Θ.
+            <span class="font-weight-bold">Εισηγητές:</span> Νακοπούλου Κ., Βεσαλά Α.Μ.
           </p>
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
         </v-row>
@@ -264,7 +260,7 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2 text-center">(Α12) 12:00-14:00</h3>
+          <h3 class="subtitle-2 text-center">(B12) 12:00-14:00</h3>
           <p class="text-center">
             <span class="font-weight-bold">
               ΣΥΝΕΔΡΙΑ ΑΝΑΡΤΗΜΕΝΩΝ
@@ -273,15 +269,15 @@
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Θεματικές κατηγορίες:</span> Ορθοδοντική,
-            Προληπτική Οδοντιατρική, Παιδοδοντιατρική,
-            Σύγχρονες τεχνολογίες, Επαγγελματικά θέματα,
-            Στοματοπροσωπικός Πόνος - Φυσιολογία
-            Στοματογναθικού Συστήματος
+            <span class="font-weight-bold">Θεματικές κατηγορίες:</span>Στοματολογία,
+            Νοσοκομειακή Οδοντιατρική, Γηροδοντιατρική,
+            Διαγνωστική και Ακτινολογία Στόματος
           </p>
           <p class="text-center">E-POSTERS AREA</p>
         </v-row>
+
         <v-divider></v-divider>
+
         <v-row>
           <v-col cols="12">
             <v-row justify="center">
@@ -289,10 +285,11 @@
             </v-row>
 
             <v-row justify="center">
-              <p class="text-center">ΜΕΣΗΜΒΡΙΝΗ ΔΙΑΚΟΠΗ</p>
+              <p class="text-center">"Η ΩΡΑ ΤΩΝ ΧΟΡΗΓΩΝ"</p>
             </v-row>
           </v-col>
         </v-row>
+
         <v-divider></v-divider>
 
         <v-row>
@@ -305,67 +302,76 @@
 
         <v-row justify="center" class="myRow">
           <h3 class="subtitle-2 text-center">
-            (A13)
+            (B13)
             ΣΤ 90'
-            Αντιμετώπιση της Περιοδοντίτιδας μέσω της
-            Εξατομικευμένης Οδοντιατρικής
+            Ειδικές κατηγορίες ασθενών και οδοντικά
+            εμφυτεύματα
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Παπαϊωάννου Β
+            <span class="font-weight-bold">Συντονισμός:</span>Πουλόπουλος Α.
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span>Καλαϊτζάκης Χ., Μάρκου Ν., Μπατάς Λ.,
-            Χαραλαμπάκης Γ.
+            <span class="font-weight-bold">Ομιλητές:</span> Πουλόπουλος Α., Ανδρεάδης Δ.,
+            Παρχαρίδης Ε
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
+
         <v-divider></v-divider>
+
         <v-row justify="center mt-2" class="myRow">
           <h3 class="subtitle-2 text-center">
-            (A14)
+            (B14)
             ΣΤ 90'
-            Πότε η ένταξη της Ορθοδοντικής καθίσταται
-            αναγκαία στα Επανορθωτικά Οδοντιατρικά
-            Πρωτόκολλα;
+            Οδοντιατρική Ογκολογία: Συμβολή στις
+            ανάγκες της σύγχρονης ογκολογίας
           </h3>
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Μπάσδρα Έ
+            <span class="font-weight-bold">Συντονισμός:</span>Νικολάτου-Γαλίτη Ο
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span>Αγγελόπουλος Γ., Κωνσταντώνης Δ.,
-            Σταθόπουλος Β.
+            <span class="font-weight-bold">Ομιλητές:</span>Βάρδας Ε., Παπαδοπούλου Ε., Κουρή
+            Μ., Νικολάτου-Γαλίτη Ο.
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
+
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A15) ΕΙ 30'</h3>
+          <h3 class="subtitle-2">(Β15) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Γιαννέλης Γ.:</span> Περιεμφυτευματικές Νόσοι.
-            Διάγνωση, Θεραπευτικά πρωτόκολλα και Πρόληψη
+            <span class="font-weight-bold">Μίχου Σ.:</span>Νέες ψηφιακές μέθοδοι ανίχνευσης
+            τερηδόνας. Είναι αξιόπιστες;
           </p>
 
-          <h3 class="subtitle-2">(A15) ΕΙ 60'</h3>
+          <h3 class="subtitle-2">(Β15) ΕΙ 60'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Prof. Ulm C.:</span>
-            The Sinus Floor Elevation - Basic
-            Research and Current Personalized Concepts
+            <span class="font-weight-bold">Prof. Ekstrand K.:</span>
+            The ICDAS-, ICCMS- and CCI
+            frameworks to take care of patients with cariological
+            problems
           </p>
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
+
         <v-divider></v-divider>
+
         <v-row justify="center" class="myRow mt-2">
           <h3 class="subtitle-2 text-center">
-            (A16) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ
-            ΑΝΑΚΟΙΝΩΣΕΩΝ/ΕΠΙΤΡΑΠΕΖΙΩΝ
-            ΕΠΙΔΕΙΞΕΩΝ/ΒΙΝΤΕΟ ΠΡΟΒΟΛΩΝ
+            (Β16) ΣΤ 90' Διεπιστημονική Συνεργασία στην
+            εξατομικευμένη αντιμετώπιση ορθοδοντικών
+            περιστατικών
           </h3>
+
           <p class="text-center">
-            <span class="font-weight-bold">Θεματικές κατηγορία:</span> Εμφυτευματολογία,
-            Επαγγελματικά Θέματα, Στοματική και
-            Γναθοπροσωπική Χειρουργική, Σύγχρονες
-            Τεχνολογίες
+            <span class="font-weight-bold">Συντονισμός:</span> Τσολάκης Α
+          </p>
+
+          <p class="text-center">
+            <span class="font-weight-bold">Ομιλητές:</span>Τσολάκης Α., Σανούδος Μ., Παναγή Ν.,
+            Βαγδούτη Γ., Μυλωνοπούλου Ι. Μ., Μακρυγιαννάκης
+            Μ.
           </p>
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
         </v-row>
@@ -373,24 +379,24 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(ΠΡ1) ΠΡΑΚΤΙΚΟ ΣΕΜΙΝΑΡΙΟ 1</h3>
+          <h3 class="subtitle-2 text-center">(ΠΡ3) ΠΡΑΚΤΙΚΟ ΣΕΜΙΝΑΡΙΟ 3</h3>
           <p class="text-center">
             <span class="font-weight-bold">
-              Βέλτιστες πρακτικές διενέργειας
-              βιοψίας σε στοματολογικές
-              παθήσεις: Βήμα προς βήμα
-              προσέγγιση για ασφαλή τεχνική
-              και ορθή διάγνωση
+              Less is more: Δημιουργώντας
+              άμεσες αισθητικές
+              αποκαταστάσεις με απλά και
+              προβλέψιμα βήματα
             </span>
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Εκπαιδευτές:</span> Δασκαλόπουλος Α.,
-            Γεωργάκη Μ.
+            <span class="font-weight-bold">Εκπαιδευτής:</span>Καμποσιώρα Φ.
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΕΜΙΝΑΡΙΩΝ Β'</p>
         </v-row>
+
         <v-divider></v-divider>
+
         <v-row>
           <v-col cols="12">
             <v-row justify="center">
@@ -412,11 +418,10 @@
         </v-row>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A17) ΕΙ 30'</h3>
+          <h3 class="subtitle-2 text-center">(Β17) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Σαρλάνη Ε.:</span> Διαφορική διάγνωση
-            στοματοπροσωπικού πόνου: Από την ταξινόμηση
-            στην εξατομικευμένη προσέγγιση
+            <span class="font-weight-bold">Οικονόμου Ι.:</span> Ενδοδοντική Θεραπεία ή όχι σε
+            βαθιά τερηδονική βλάβη
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
@@ -424,23 +429,22 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A17) ΣΤ 90' '</h3>
+          <h3 class="subtitle-2 text-center">(B17) ΣΤ 90' '</h3>
           <p class="text-center">
             <span class="font-weight-bold">
-              Εξατομικευμένη αντιμετώπιση στη
-              Στοματολογία: Αναλύοντας και συνθέτοντας
-              το προφίλ του ασθενούς. Παρουσίαση
-              περιπτώσεων.
+              Υπολογιστικά Κατευθυνόμενη Οδοντιατρική
+              Εμφυτευματολογία: Από τη διάγνωση στην
+              τελική αποκατάσταση
             </span>
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Νικητάκης Ν.
+            <span class="font-weight-bold">Συντονισμός:</span>Νταμπαράκης Ν
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span> Νικητάκης Ν., Πιπέρη Ε., Τόσιος Κ.,
-            Χρυσομάλη Ε.
+            <span class="font-weight-bold">Ομιλητές:</span>Αγγελόπουλος Χ., Αποστολάκης Δ.,
+            Φωτόπουλος Ι.
           </p>
           <p class="text-center">ΚΕΝΤΡΙΚΟ ΑΜΦΙΘΕΑΤΡΟ</p>
         </v-row>
@@ -448,13 +452,12 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A18) ΕΙ 30'</h3>
+          <h3 class="subtitle-2 text-center">(Β18) ΕΙ 30'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Αθανασίου Α.:</span> Ανεπιθύμητες επιδράσεις της
-            ορθοδοντικής θεραπείας στους οδοντικούς και
-            περιοδοντικούς ιστούς - προβλήματα που οφείλονται
-            σε μη έγκαιρη διάγνωση της μη φυσιολογικής
-            ανατολής των κυνοδόντων
+            <span class="font-weight-bold">Βασιλόπουλος Σ:</span>Η εξέλιξη των περιοδοντικών
+            χειρουργικών τεχνικών. Από τη συμβατική
+            προσέγγιση στους εξατομικευμένους κρημνούς
+            ελάχιστης παρέμβασης.
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
@@ -462,22 +465,21 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A18) ΣΤ 90' '</h3>
+          <h3 class="subtitle-2 text-center">(Β18) ΣΤ 90' '</h3>
           <p class="text-center">
             <span class="font-weight-bold">
-              Σύγχρονες θεραπευτικές προσεγγίσεις σε
-              βαθιές τερηδονικές βλάβες νεογιλών και
-              νεαρών μονίμων δοντιών
+              Περιεγχειρητική Χημειοπροφύλαξη στην
+              Οδοντιατρική. Χρήση ή κατάχρηση ;
             </span>
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Συντονισμός:</span> Γκιζάνη Σ.
+            <span class="font-weight-bold">Συντονισμός:</span>Κάλφας Σ.
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span> Αγουρόπουλος Α., Βαδιάκας Γ.,
-            Εμμανουήλ Δ.
+            <span class="font-weight-bold">Ομιλητές:</span>Θεοδωρίδης Χ., Απατζίδου Δ.,
+            Καρακώστας Π.
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
@@ -485,11 +487,9 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A19) ΕΙ 30'</h3>
+          <h3 class="subtitle-2 text-center">(B19) ΕΙ 60'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Γαλιατσάτος Α.:</span>Ενδομυλικές αισθητικές
-            αποκαταστάσεις οπίσθιων δοντιών με πολυμερή
-            υλικά
+            <span class="font-weight-bold">Dr. Yarom N.:</span> Personalized Oral Medicine
           </p>
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
@@ -497,10 +497,10 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A19) ΕΙ 30'</h3>
+          <h3 class="subtitle-2 text-center">(Β19) ΕΙ 60'</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Πολυχρονάκης Ν.:</span> Κλινικές εφαρμογές των
-            μαλακών επιστρωμάτων στην Κινητή Προσθετική
+            <span class="font-weight-bold">Prof. Cauwels R.:</span>The match between lasers and
+            oral mucosa
           </p>
           <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
         </v-row>
@@ -508,41 +508,28 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A19) ΕΙ 60'</h3>
+          <h3 class="subtitle-2 text-center">(ΚΛ4) 17:30-19:30</h3>
           <p class="text-center">
-            <span class="font-weight-bold">Prof. Casap N.:</span> Computerized Technologies and
-            Biological Techniques for Personalized Dental
-            Implants Surgery
+            <span class="font-weight-bold">ΚΛΙΝΙΚΟ ΦΡΟΝΤΙΣΤΗΡΙΟ 4</span>
           </p>
-          <p class="text-center">ΠΕΙΡΑΜΑΤΙΚΟ ΘΕΑΤΡΟ</p>
-        </v-row>
-
-        <v-divider></v-divider>
-
-        <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(ΚΛ2)</h3>
-          <p class="text-center">
-            <span class="font-weight-bold">17:30-19:00</span>
-          </p>
-
-          <p class="text-center">
-            <span class="font-weight-bold">ΚΛΙΝΙΚΟ ΦΡΟΝΤΙΣΤΗΡΙΟ 2</span>
+          <p class="text-center font-weight-bold">
+            Σύγχρονες τεχνικές και υλικά για την
+            προστασία / θεραπεία του πολφού και τις
+            συντηρητικές αποκαταστάσεις των νεογιλών
+            δοντιών στα παιδιά
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Φάρμακα στην Ενδοδοντία</span>
+            <span class="font-weight-bold">Εισηγητές:</span>Λυγιδάκης Ν. Α., Χατζηδημητρίου
+            Κ.,Λυγιδάκης Ν. Ν.
           </p>
-
-          <p class="text-center">
-            <span class="font-weight-bold">Εισηγητές:</span> Παπαδοπούλου Χ., Ζερβάκη Α.
-          </p>
-
           <p class="text-center">ΜΙΚΡΟ ΘΕΑΤΡΟ</p>
         </v-row>
+        <!-- I HAVE DONE UNTIL HERE ++++++++++++++++++++++++________________________++++++++++++++++++++++++++++++++++_________________________________ TODO -->
 
         <v-divider></v-divider>
 
         <v-row justify="center" class="myRow mt-2">
-          <h3 class="subtitle-2 text-center">(A20)</h3>
+          <h3 class="subtitle-2 text-center">(Β20)</h3>
           <p class="text-center">
             <span class="font-weight-bold">
               ΣΥΝΕΔΡΙΑ ΑΝΑΡΤΗΜΕΝΩΝ
@@ -551,8 +538,8 @@
           </p>
 
           <p class="text-center">
-            <span class="font-weight-bold">Θεματικές κατηγορίες:</span> Προσθετική Ακίνητη,
-            Προσθετική Κινητή
+            <span class="font-weight-bold">Θεματική κατηγορία:</span>Στοματική και
+            Γναθοπροσωπική Χειρουργική
           </p>
 
           <p class="text-center">E-POSTERS AREA</p>
