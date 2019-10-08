@@ -1,6 +1,7 @@
 <template>
   <div>
     <v-row>
+      
       <v-col cols="12">
         <v-row justify="center">
           <h2 class="title">09:00 - 10:00</h2>
@@ -179,14 +180,14 @@
             (A10)
             ΣΤ 90'
             Η εξατομικευμένη προσέγγιση στην
-οδοντιατρική αντιμετώπιση του ασθενούς με
-συνοδά νοσήματα
+            οδοντιατρική αντιμετώπιση του ασθενούς με
+            συνοδά νοσήματα
           </h3>
           <p class="text-center">
             <span class="font-weight-bold">Συντονισμός:</span> Βάρδας Ε
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές: </span>Βάρδας Ε., Καλφαρέντζος Ε., Μητσέα Α
+            <span class="font-weight-bold">Ομιλητές:</span>Βάρδας Ε., Καλφαρέντζος Ε., Μητσέα Α
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>
@@ -535,3 +536,18 @@
     </v-row>
   </div>
 </template>
+
+<script>
+export default {
+  methods: {
+    findString(str) {
+      let strFound = self.find(str);
+
+      if (!strFound) {
+        strFound = self.find(str, 0, 1);
+        while (self.find(str, 0, 1)) continue;
+      }
+    }
+  }
+};
+</script>
