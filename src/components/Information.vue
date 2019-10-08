@@ -109,10 +109,6 @@
             >Το Συνεδριακό Κέντρο διαθέτει χώρο στάθμευσης (υπόγειο στεγασμένο πάρκινγκ)</p>
           </v-col>
         </v-row>
-
-        <v-divider></v-divider>
-
-        <v-row justify="center">dasdasdas</v-row>
       </v-col>
     </v-row>
 

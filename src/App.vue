@@ -11,7 +11,7 @@
         <v-img src="../public/img/tooth.png" aspect-ratio="1" height="30" width="30"></v-img>
       </v-toolbar-title>
 
-      <v-btn icon right>
+      <v-btn v-if="whereToShow()" icon right>
         <v-icon @click="showTextField = !showTextField; searchText=''">mdi-magnify</v-icon>
       </v-btn>
       <!-- <v-btn fixed @click="findString('Συντονισμός')">hi</v-btn> -->
@@ -47,7 +47,7 @@ export default {
     items: [
       { title: "Αρχική Σελίδα", link: "/" },
       { title: "Μηνύματα Προέδρων", link: "/messages" },
-      { title: "Πρόγραμμα" },
+      { title: "Πρόγραμμα", link: '/program' },
       { title: "Ομιλητές" },
       { title: "Χρήσιμες Πληροφορίες", link: "/information" },
       { title: "Χορηγοί", link: "/sponsors" }
@@ -60,6 +60,13 @@ export default {
       if (!strFound) {
         strFound = self.find(str, 0, 1);
         while (self.find(str, 0, 1)) continue;
+      }
+    },
+    whereToShow(){
+      if(this.$route.path === '/program/thursday/room' || this.$route.path === '/program/thursday/hour' || this.$route.path === '/program/friday/room' || this.$route.path === '/program/friday/hour' || this.$route.path === '/program/saturday/room' || this.$route.path === '/program/saturday/hour'){
+        return true;
+      }else{
+        return false;
       }
     }
   }
