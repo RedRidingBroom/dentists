@@ -40,14 +40,14 @@
       <v-col cols="10" offset="1" lg="4" offset-lg="4">
         <v-menu offset-y>
           <template v-slot:activator="{ on }">
-            <v-btn tile block dark color="orange" v-on="on">ΠΕΜΠΤΗ 24 ΟΚΤΩΒΡΙΟΥ 2019</v-btn>
+            <v-btn tile block dark color="orange" v-on="on">ΣΑΒΒΑΤΟ 24 ΟΚΤΩΒΡΙΟΥ 2019</v-btn>
           </template>
           <v-list>
             <v-list-item>
-              <v-list-item-title>ΑΝΑ ΩΡΑ</v-list-item-title>
+              <v-list-item-title @click="$router.push({path: '/program/saturday/hour'})">ΑΝΑ ΩΡΑ</v-list-item-title>
             </v-list-item>
             <v-list-item>
-              <v-list-item-title>ΑΝΑ ΑΙΘΟΥΣΑ</v-list-item-title>
+              <v-list-item-title @click="$router.push({path: '/program/saturday/room'})">ΑΝΑ ΑΙΘΟΥΣΑ</v-list-item-title>
             </v-list-item>
           </v-list>
         </v-menu>
