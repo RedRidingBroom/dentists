@@ -9,8 +9,10 @@
     <v-row class="mt-4 pt-5">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block dark color="orange" @click="$router.push({path: '/messages'})">
-            <v-icon left>mdi-message</v-icon>Μηνυματα Προεδρων
+          <v-btn class="myBtn" block dark color="orange" @click="$router.push({path: '/messages'})">
+            <div>
+              <v-icon left>mdi-message</v-icon>Μηνυματα Προεδρων
+            </div>
           </v-btn>
         </v-row>
       </v-col>
@@ -19,8 +21,17 @@
     <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block tile dark color="orange" @click="$router.push({path: '/program'})">
-            <v-icon left>mdi-calendar</v-icon>Πρoγραμμα
+          <v-btn
+            class="myBtn"
+            block
+            tile
+            dark
+            color="orange"
+            @click="$router.push({path: '/program'})"
+          >
+            <div>
+              <v-icon left>mdi-calendar</v-icon>Πρoγραμμα
+            </div>
           </v-btn>
         </v-row>
       </v-col>
@@ -29,8 +40,17 @@
     <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block tile dark color="orange" @click="$router.push({path: '/omilites-proedries'})">
-            <v-icon left>mdi-calendar</v-icon>Ομιλητες και Προεδρείες
+          <v-btn
+            class="myBtn"
+            block
+            tile
+            dark
+            color="orange"
+            @click="$router.push({path: '/omilites-proedries'})"
+          >
+            <div>
+              <v-icon left>mdi-calendar</v-icon>Ομιλητες και Προεδρείες
+            </div>
           </v-btn>
         </v-row>
       </v-col>
@@ -39,19 +59,57 @@
     <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block tile dark color="orange" @click="$router.push({path: '/information'})">
-            <v-icon left>mdi-information</v-icon>
-            <span>Χρησιμες Πληροφοριες</span>
+          <v-btn
+            class="myBtn"
+            block
+            tile
+            dark
+            color="orange"
+            @click="$router.push({path: '/information'})"
+          >
+            <div>
+              <v-icon left>mdi-information</v-icon>
+              <span>Χρησιμες Πληροφοριες</span>
+            </div>
           </v-btn>
         </v-row>
       </v-col>
     </v-row>
 
+ <v-row class="mt-4">
+      <v-col cols="8" offset="2" lg="4" offset-lg="4">
+        <v-row justify="center">
+          <v-btn
+            class="myBtn"
+            block
+            tile
+            dark
+            color="orange"
+            @click="$router.push({path: '/exhibition'})"
+          >
+            <div>
+              <v-icon left>mdi-hand-heart</v-icon>Εκθετες
+            </div>
+          </v-btn>
+        </v-row>
+      </v-col>
+    </v-row>
+    
+
     <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn block tile dark color="orange" @click="$router.push({path: '/sponsors'})">
-            <v-icon left>mdi-hand-heart</v-icon>Χορηγοι
+          <v-btn
+            class="myBtn"
+            block
+            tile
+            dark
+            color="orange"
+            @click="$router.push({path: '/sponsors'})"
+          >
+            <div>
+              <v-icon left>mdi-hand-heart</v-icon>Χορηγοι
+            </div>
           </v-btn>
         </v-row>
       </v-col>
@@ -64,3 +122,18 @@ export default {
   data: () => ({})
 };
 </script>
+
+<style scoped>
+.myBtn {
+  transform: skew(-20deg);
+  -webkit-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -ms-transform: skew(-20deg);
+  
+}
+
+.myBtn div {
+  transform: skew(20deg);
+}
+</style>

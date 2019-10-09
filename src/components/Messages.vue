@@ -21,7 +21,7 @@
         </v-list-item>
 
         <v-card-actions>
-          <v-btn text @click="$router.push({path: '/message/devliotis'})">Διαβάστε το μήνυμα...</v-btn>
+          <v-btn text @click="$router.push({path: '/message/devliotis'})">Διαβαστε το μηνυμα...</v-btn>
         </v-card-actions>
       </v-card>
     </v-row>
@@ -40,7 +40,7 @@
         </v-list-item>
 
         <v-card-actions>
-          <v-btn text @click="$router.push({path: '/message/39president'})">Διαβάστε το μήνυμα...</v-btn>
+          <v-btn text @click="$router.push({path: '/message/39president'})">Διαβαστε το μηνυμα...</v-btn>
         </v-card-actions>
       </v-card>
     </v-row>
@@ -55,7 +55,7 @@
         </v-list-item>
 
         <v-card-actions>
-          <v-btn text @click="$router.push({path: '/message/crete'})">Διαβάστε το μήνυμα...</v-btn>
+          <v-btn text @click="$router.push({path: '/message/crete'})">Διαβαστε το μηνυμα...</v-btn>
         </v-card-actions>
       </v-card>
     </v-row>
