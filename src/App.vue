@@ -48,7 +48,7 @@ export default {
       { title: "Αρχική Σελίδα", link: "/" },
       { title: "Μηνύματα Προέδρων", link: "/messages" },
       { title: "Πρόγραμμα", link: '/program' },
-      { title: "Ομιλητές" },
+      { title: "Ομιλητές" ,link: '/omilites-proedries'},
       { title: "Χρήσιμες Πληροφορίες", link: "/information" },
       { title: 'Εκθέτες', link: '/exhibition'},
       { title: "Χορηγοί", link: "/sponsors" }
