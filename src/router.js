@@ -7,6 +7,9 @@ import Message from './components/Message.vue'
 import Information from './components/Information.vue'
 import Program from './components/Program.vue'
 import ProgramByDay from './components/ProgramByDay.vue'
+import Exhibition from './components/Exhibition.vue'
+import OmilitesProedries from './components/OmilitesProedries.vue'
+import OmilitesProedriesContent from './components/OmilitesProedriesContent.vue'
 
 Vue.use(Router)
 
@@ -52,7 +55,20 @@ export default new Router({
       path: '/program/:day/:order',
       name: 'day',
       component: ProgramByDay
+    },
+    {
+      path: '/exhibition',
+      name: 'exhibition',
+      component: Exhibition
+    },
+    {
+      path: '/omilites-proedries',
+      name: 'omilites-proedries',
+      component: OmilitesProedries
+    },
+    {
+      path: '/omilites-proedries/:which',
+      component: OmilitesProedriesContent
     }
-    
   ]
 })

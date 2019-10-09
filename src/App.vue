@@ -50,6 +50,7 @@ export default {
       { title: "Πρόγραμμα", link: '/program' },
       { title: "Ομιλητές" },
       { title: "Χρήσιμες Πληροφορίες", link: "/information" },
+      { title: 'Εκθέτες', link: '/exhibition'},
       { title: "Χορηγοί", link: "/sponsors" }
     ]
   }),
@@ -63,7 +64,7 @@ export default {
       }
     },
     whereToShow(){
-      if(this.$route.path === '/program/thursday/room' || this.$route.path === '/program/thursday/hour' || this.$route.path === '/program/friday/room' || this.$route.path === '/program/friday/hour' || this.$route.path === '/program/saturday/room' || this.$route.path === '/program/saturday/hour'){
+      if(this.$route.path === '/program/thursday/room' || this.$route.path === '/program/thursday/room' || this.$route.path === '/program/friday/room' || this.$route.path === '/program/friday/hour' || this.$route.path === '/program/saturday/room' || this.$route.path === '/program/saturday/hour'){
         return true;
       }else{
         return false;

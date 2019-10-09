@@ -3,7 +3,7 @@
     <v-row>
       <v-col cols="10" offset="1" lg="4" offset-lg="4" align-self="center">
         <v-row justify="center">
-          <h3 class="title orange--text">ΠΕΜΠΤΗ 24 ΟΚΤΩΒΡΙΟΥ 2019</h3>
+          <h3 class="title orange--text text-center">ΠΕΜΠΤΗ 24 ΟΚΤΩΒΡΙΟΥ 2019</h3>
           
         </v-row>
         <v-row justify="center mt-5" >
@@ -12,7 +12,7 @@
         </v-row>
 
         <v-row justify="center">
-          <h3 class="title orange--text">ΠΑΡΑΣΚΕΥΗ 25 ΟΚΤΩΒΡΙΟΥ 2019</h3>
+          <h3 class="title orange--text text-center">ΠΑΡΑΣΚΕΥΗ 25 ΟΚΤΩΒΡΙΟΥ 2019</h3>
           
         </v-row>
 
@@ -22,7 +22,7 @@
         </v-row>
 
         <v-row justify="center">
-          <h3 class="title orange--text">ΣΑΒΒΑΤΟ 26 ΟΚΤΩΒΡΙΟΥ 2019</h3>
+          <h3 class="title orange--text text-center">ΣΑΒΒΑΤΟ 26 ΟΚΤΩΒΡΙΟΥ 2019</h3>
           
         </v-row>
 
