@@ -95,9 +95,9 @@
             <span class="font-weight-bold">Συντονισμός:</span>Ραχιώτης Χ.
           </p>
           <p class="text-center">
-            <span class="font-weight-bold">Ομιλητές:</span> Παξιμαδά Χ., Αγουρόπουλος Α., Γκαβέλα
+            <span class="font-weight-bold">Ομιλητές:</span>
+ Παξιμαδά Χ., Αγουρόπουλος Α., Γκαβέλα
             Γ.
-  
           </p>
           <p class="text-center">ΑΙΘΟΥΣΑ ΣΥΝΑΥΛΙΩΝ</p>
         </v-row>

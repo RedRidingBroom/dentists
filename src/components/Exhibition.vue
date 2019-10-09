@@ -55,9 +55,9 @@
       </v-col>
     </v-row>
 
-     <v-divider class="mt-10"></v-divider>
+    <v-divider class="mt-10"></v-divider>
 
-     <v-row class="mt-3">
+    <v-row class="mt-3">
       <v-col cols="10" offset="1">
         <h3 class="headline text-center primary--text">ΕΚΘΕΣΙΑΚΟΣ ΧΩΡΟΣ B'</h3>
       </v-col>
@@ -83,8 +83,6 @@
         </v-simple-table>
       </v-col>
     </v-row>
-
-    
   </v-container>
 </template>
 

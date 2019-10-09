@@ -1,7 +1,6 @@
 <template>
   <div>
     <v-row>
-      
       <v-col cols="12">
         <v-row justify="center">
           <h2 class="title">09:00 - 10:00</h2>

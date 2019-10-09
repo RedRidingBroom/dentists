@@ -1,18 +1,20 @@
 <template>
-  <v-container class="cont">
-
-
-   
+  <v-container class="container">
     <v-row class="mt-5">
- 
       <v-card class="mx-auto" max-width="344" outlined>
         <v-list-item three-line>
           <v-list-item-content>
-            <v-list-item-title class="headline mb-1" @click="$router.push({path: '/message/devliotis'})">
+            <v-list-item-title
+              class="headline mb-1"
+              @click="$router.push({path: '/message/devliotis'})"
+            >
               Αθανάσιος
               <br />Δεβλιώτης
-            </v-list-item-title >
-            <v-list-item-subtitle class="mt-2" @click="$router.push({path: '/message/devliotis'})">Πρόεδρος της Ελληνικής Οδοντιατρικής Ομοσπονδίας</v-list-item-subtitle>
+            </v-list-item-title>
+            <v-list-item-subtitle
+              class="mt-2"
+              @click="$router.push({path: '/message/devliotis'})"
+            >Πρόεδρος της Ελληνικής Οδοντιατρικής Ομοσπονδίας</v-list-item-subtitle>
           </v-list-item-content>
 
           <v-list-item-avatar tile size="80" color="grey">
@@ -30,8 +32,17 @@
       <v-card class="mx-auto" max-width="344" outlined>
         <v-list-item three-line>
           <v-list-item-content>
-            <v-list-item-title @click="$router.push({path: '/message/39president'})" class="headline mb-1">Νικόλαος Γ. <br/> Νικητάκης</v-list-item-title>
-            <v-list-item-subtitle @click="$router.push({path: '/message/39president'})" class="mt-2">Πρόεδρος Οργανωτικής Επιτροπής 39ου ΠΟΣ</v-list-item-subtitle>
+            <v-list-item-title
+              @click="$router.push({path: '/message/39president'})"
+              class="headline mb-1"
+            >
+              Νικόλαος Γ.
+              <br />Νικητάκης
+            </v-list-item-title>
+            <v-list-item-subtitle
+              @click="$router.push({path: '/message/39president'})"
+              class="mt-2"
+            >Πρόεδρος Οργανωτικής Επιτροπής 39ου ΠΟΣ</v-list-item-subtitle>
           </v-list-item-content>
 
           <v-list-item-avatar tile size="80" color="grey">
@@ -49,8 +60,13 @@
       <v-card class="mx-auto" max-width="344" outlined>
         <v-list-item three-line>
           <v-list-item-content>
-            <v-list-item-title @click="$router.push({path: '/message/crete'})" class="headline mb-1">Πρόεδροι Ο.Σ. Κρήτης</v-list-item-title>
-            <v-list-item-subtitle  @click="$router.push({path: '/message/crete'})">Πατήστε το κουμπί για περισσότερα</v-list-item-subtitle>
+            <v-list-item-title
+              @click="$router.push({path: '/message/crete'})"
+              class="headline mb-1"
+            >Πρόεδροι Ο.Σ. Κρήτης</v-list-item-title>
+            <v-list-item-subtitle
+              @click="$router.push({path: '/message/crete'})"
+            >Πατήστε το κουμπί για περισσότερα</v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
 
@@ -59,7 +75,6 @@
         </v-card-actions>
       </v-card>
     </v-row>
-    
   </v-container>
 </template>
 
@@ -77,12 +92,11 @@ export default {
 </script>
 
 <style scoped>
-.cont {
+.container {
+  height: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  align-items: center;
-  justify-content: center;
+  align-content: center;
 }
 
 .bottom-card {

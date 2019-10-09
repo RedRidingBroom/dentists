@@ -12,17 +12,24 @@
     <v-row>
       <v-col>
         <v-row justify="center">
-          <h2 class="title primary--text text-center"> Χώρος Διεξαγωγής 39ου ΠΟΣ:</h2>
+          <h2 class="title primary--text text-center">Χώρος Διεξαγωγής 39ου ΠΟΣ:</h2>
           <p class="mt-5 font-weight-light text-center">Πολιτιστικό & Συνεδριακό Κέντρο Ηρακλείου</p>
           <p class="font-weight-light text-center">Πλαστήρα & Ρωμανού, 71201 Ηράκλειο</p>
         </v-row>
         <v-row>
-       <iframe class="mb-2" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.512633040114!2d25.129177!3d35.333847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab0037183204b1d2!2zzqDOv867zrnPhM65z4PPhM65zrrPjM69IM6azq3Ovc-Ez4HOv869IOG8qc-BzrHOus67zrXOr86_z4U!5e0!3m2!1sel!2sgr!4v1570438255257!5m2!1sel!2sgr" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+          <iframe
+            class="mb-2"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.512633040114!2d25.129177!3d35.333847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab0037183204b1d2!2zzqDOv867zrnPhM65z4PPhM65zrrPjM69IM6azq3Ovc-Ez4HOv869IOG8qc-BzrHOus67zrXOr86_z4U!5e0!3m2!1sel!2sgr!4v1570438255257!5m2!1sel!2sgr"
+            width="100%"
+            height="100%"
+            frameborder="0"
+            style="border:0;"
+            allowfullscreen
+          ></iframe>
         </v-row>
-        
       </v-col>
     </v-row>
-<v-divider></v-divider>
+    <v-divider></v-divider>
     <v-row justify="center" class="mb-12 pb-8">
       <v-col cols="10" md="8" lg="6" xl="10">
         <v-row justify="center">
@@ -145,28 +152,3 @@
     </v-row>
   </v-container>
 </template>
-
-<script>
-// import gmapsInit from '../utils/gmaps';
-// export default {
-//   name: 'information',
-//   async mounted() {
-//     try {
-//       const google = await gmapsInit();
-//       const geocoder = new google.maps.Geocoder();
-//       const map = new google.maps.Map(this.$el);
-
-//       geocoder.geocode({ address: 'Austria' }, (results, status) => {
-//         if (status !== 'OK' || !results[0]) {
-//           throw new Error(status);
-//         }
-
-//         map.setCenter(results[0].geometry.location);
-//         map.fitBounds(results[0].geometry.viewport);
-//       });
-//     } catch (error) {
-//       console.error(error);
-//     }
-//   }
-// };
-</script>

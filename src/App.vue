@@ -18,9 +18,19 @@
     </v-app-bar>
 
     <v-content>
-      <v-text-field autofocus @blur="showTextField = !showTextField; searchText=''" @click:append="findString(searchText)" v-model="searchText" v-if="showTextField" label="Αναζήτηση" solo dense append-icon="mdi-magnify" light class="myTextField" >
-       
-      </v-text-field>
+      <v-text-field
+        autofocus
+        @blur="showTextField = !showTextField; searchText=''"
+        @click:append="findString(searchText)"
+        v-model="searchText"
+        v-if="showTextField"
+        label="Αναζήτηση"
+        solo
+        dense
+        append-icon="mdi-magnify"
+        light
+        class="myTextField"
+      ></v-text-field>
       <router-view></router-view>
     </v-content>
 
@@ -43,14 +53,14 @@ export default {
   data: () => ({
     drawer: null,
     showTextField: false,
-    searchText: '',
+    searchText: "",
     items: [
       { title: "Αρχική Σελίδα", link: "/" },
       { title: "Μηνύματα Προέδρων", link: "/messages" },
-      { title: "Πρόγραμμα", link: '/program' },
-      { title: "Ομιλητές" ,link: '/omilites-proedries'},
+      { title: "Πρόγραμμα", link: "/program" },
+      { title: "Ομιλητές", link: "/omilites-proedries" },
       { title: "Χρήσιμες Πληροφορίες", link: "/information" },
-      { title: 'Εκθέτες', link: '/exhibition'},
+      { title: "Εκθέτες", link: "/exhibition" },
       { title: "Χορηγοί", link: "/sponsors" }
     ]
   }),
@@ -63,10 +73,17 @@ export default {
         while (self.find(str, 0, 1)) continue;
       }
     },
-    whereToShow(){
-      if(this.$route.path === '/program/thursday/room' || this.$route.path === '/program/thursday/room' || this.$route.path === '/program/friday/room' || this.$route.path === '/program/friday/hour' || this.$route.path === '/program/saturday/room' || this.$route.path === '/program/saturday/hour'){
+    whereToShow() {
+      if (
+        this.$route.path === "/program/thursday/room" ||
+        this.$route.path === "/program/thursday/hour" ||
+        this.$route.path === "/program/friday/room" ||
+        this.$route.path === "/program/friday/hour" ||
+        this.$route.path === "/program/saturday/room" ||
+        this.$route.path === "/program/saturday/hour"
+      ) {
         return true;
-      }else{
+      } else {
         return false;
       }
     }
@@ -92,7 +109,6 @@ export default {
   position: fixed;
   width: 40%;
   left: 30%;
- 
 }
 
 .test {

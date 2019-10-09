@@ -9,9 +9,15 @@
     <v-row class="mt-4 pt-5">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
-          <v-btn class="myBtn" block dark color="orange" @click="$router.push({path: '/messages'})">
+          <v-btn
+            class="myBtn"
+            depressed
+            dark
+            color="orange"
+            @click="$router.push({path: '/messages'})"
+          >
             <div>
-              <v-icon left>mdi-message</v-icon>Μηνυματα Προεδρων
+              <v-icon small left>mdi-message</v-icon>Μηνυματα Προεδρων
             </div>
           </v-btn>
         </v-row>
@@ -23,14 +29,13 @@
         <v-row justify="center">
           <v-btn
             class="myBtn"
-            block
-            tile
+            depressed
             dark
             color="orange"
             @click="$router.push({path: '/program'})"
           >
             <div>
-              <v-icon left>mdi-calendar</v-icon>Πρoγραμμα
+              <v-icon small left>mdi-calendar</v-icon>Πρoγραμμα
             </div>
           </v-btn>
         </v-row>
@@ -42,14 +47,13 @@
         <v-row justify="center">
           <v-btn
             class="myBtn"
-            block
-            tile
+            depressed
             dark
             color="orange"
             @click="$router.push({path: '/omilites-proedries'})"
           >
             <div>
-              <v-icon left>mdi-calendar</v-icon>Ομιλητες και Προεδρείες
+              <v-icon small left>mdi-account</v-icon>Ομιλητες και Προεδριες
             </div>
           </v-btn>
         </v-row>
@@ -61,14 +65,13 @@
         <v-row justify="center">
           <v-btn
             class="myBtn"
-            block
-            tile
+            depressed
             dark
             color="orange"
             @click="$router.push({path: '/information'})"
           >
             <div>
-              <v-icon left>mdi-information</v-icon>
+              <v-icon small left>mdi-information</v-icon>
               <span>Χρησιμες Πληροφοριες</span>
             </div>
           </v-btn>
@@ -76,39 +79,36 @@
       </v-col>
     </v-row>
 
- <v-row class="mt-4">
+    <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
           <v-btn
             class="myBtn"
-            block
-            tile
+            depressed
             dark
             color="orange"
             @click="$router.push({path: '/exhibition'})"
           >
             <div>
-              <v-icon left>mdi-hand-heart</v-icon>Εκθετες
+              <v-icon small left>mdi-map-marker-radius</v-icon>Εκθετες
             </div>
           </v-btn>
         </v-row>
       </v-col>
     </v-row>
-    
 
     <v-row class="mt-4">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
           <v-btn
             class="myBtn"
-            block
-            tile
+            depressed
             dark
             color="orange"
             @click="$router.push({path: '/sponsors'})"
           >
             <div>
-              <v-icon left>mdi-hand-heart</v-icon>Χορηγοι
+              <v-icon small left>mdi-hand-heart</v-icon>Χορηγοι
             </div>
           </v-btn>
         </v-row>
@@ -130,7 +130,8 @@ export default {
   -o-transform: skew(-20deg);
   -moz-transform: skew(-20deg);
   -ms-transform: skew(-20deg);
-  
+  width: 100%;
+  justify-content: flex-start;
 }
 
 .myBtn div {

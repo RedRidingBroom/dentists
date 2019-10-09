@@ -477,7 +477,7 @@
         <span class="font-weight-bold">Θεματικές κατηγορίες:</span> Στοματική και
         Γναθοπροσωπική Χειρουργική, Εμφυτευματολογία
       </p>
-      <p class="text-center"> 12:00-14:00</p>
+      <p class="text-center">12:00-14:00</p>
     </v-row>
 
     <v-divider></v-divider>
@@ -526,13 +526,13 @@
       <p class="text-center">
         <span class="font-weight-bold">Εκπαιδευτής:</span>Παπαβασιλείου Γ
       </p>
-      <p class="text-center"> 11:30-14:30</p>
+      <p class="text-center">11:30-14:30</p>
     </v-row>
 
     <v-divider></v-divider>
 
     <v-row justify="center" class="myRow mt-2">
-      <h3 class="subtitle-2 text-center">(ΠΡ5) </h3>
+      <h3 class="subtitle-2 text-center">(ΠΡ5)</h3>
       <p class="text-center">
         <span class="font-weight-bold">ΠΡΑΚΤΙΚΟ ΣΕΜΙΝΑΡΙΟ 5</span>
       </p>

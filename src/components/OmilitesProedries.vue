@@ -1,6 +1,5 @@
 <template>
   <v-container>
-
     <v-row class="mt-12 pt-12">
       <v-col cols="8" offset="2" lg="4" offset-lg="4">
         <v-row justify="center">
@@ -68,7 +67,6 @@
   -o-transform: skew(-20deg);
   -moz-transform: skew(-20deg);
   -ms-transform: skew(-20deg);
-  
 }
 
 .myBtn div {
