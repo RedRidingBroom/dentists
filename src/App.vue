@@ -80,7 +80,11 @@ export default {
         this.$route.path === "/program/friday/room" ||
         this.$route.path === "/program/friday/hour" ||
         this.$route.path === "/program/saturday/room" ||
-        this.$route.path === "/program/saturday/hour"
+        this.$route.path === "/program/saturday/hour" || 
+        this.$route.path === '/omilites-proedries/freeprogram' ||
+        this.$route.path === '/omilites-proedries/kateuthinomenoprogram' ||
+        this.$route.path === '/omilites-proedries/proedries' 
+        
       ) {
         return true;
       } else {
