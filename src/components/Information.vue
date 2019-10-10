@@ -31,7 +31,7 @@
     </v-row>
     <v-divider></v-divider>
     <v-row justify="center" class="mb-12 pb-8">
-      <v-col cols="10" md="8" lg="6" xl="10">
+      <v-col class="px-4" cols="12" md="8" lg="6" xl="10">
         <v-row justify="center">
           <h3 class="headline font-weight-light text-center">Κονκάρδες Συνέδρων (badges)</h3>
           <p class="font-weight-light text-center mt-3">
@@ -45,12 +45,12 @@
 
         <v-divider></v-divider>
 
-        <v-row justify="center" class="mt-8">
-          <v-col cols="10" md="8" lg="6" xl="10">
+        <v-row justify="center" class="mt-8" n>
+          <v-col class="px-4" cols="12"  md="8" lg="6" xl="10">
             <h3 class="headline font-weight-light text-center">Υλικό Συνεδρίου</h3>
 
             <p
-              class="font-weight-light text-center mt-3"
+              class="font-weight-light mt-3"
             >Σε κάθε σύνεδρο θα χορηγηθεί το πλήρες υλικό του συνεδρίου σε φάκελο ο οποίος θα περιέχει:</p>
 
             <ul class="font-weight-light">
@@ -64,7 +64,7 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-8">
-          <v-col cols="10" md="8" lg="6" xl="10">
+          <v-col class="px-4" cols="12" md="8" lg="6" xl="10">
             <h3 class="headline font-weight-light text-center">Μοριοδότηση Συνεδρίου</h3>
 
             <p
@@ -108,7 +108,7 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-8">
-          <v-col cols="10" md="8" lg="6" xl="10">
+          <v-col class="px-4" cols="12" md="8" lg="6" xl="10">
             <h3 class="headline font-weight-light text-center">Parking</h3>
 
             <p
