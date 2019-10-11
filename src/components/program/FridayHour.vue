@@ -41,7 +41,7 @@
         <v-divider></v-divider>
 
         <v-row justify="center" class="mt-2 myRow">
-          <h3 class="subtitle-2">(A4) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
+          <h3 class="subtitle-2">(Β4) ΣΥΝΕΔΡΙΑ ΕΛΕΥΘΕΡΩΝ ΑΝΑΚΟΙΝΩΣΕΩΝ</h3>
           <p class="text-center">
             <span class="font-weight-bold">Θεματικές κατηγορίες:</span>Εμφυτευματολογία,
             Στοματοπροσωπικός Πόνος - Φυσιολογία

@@ -59,12 +59,14 @@
     <v-divider></v-divider>
 
     <v-row justify="center" class="myRow">
-      <h3 class="subtitle-2 text-center">
-        (Γ13)
-        ΣΤ 90'
-        Στρογγυλό τραπέζι Ελληνικής Οδοντιατρικής
-        Ομοσπονδίας
-      </h3>
+     <h3 class="subtitle-2 text-center">
+            (Γ13)
+            ΣΤ 90'
+            Στρογγυλό τραπέζι Ελληνικής Οδοντιατρικής Ομοσπονδίας: Ενημέρωση, Προβολή, Δεοντολογία
+          </h3>
+          <p class="text-center"> <span class="font-weight bold">Συντονισμός: </span>Δεβλιώτης Α.</p>
+
+          <p class="text-center"> <span class="font-weight bold">Ομιλητές: </span>Αυλογιάρη Ε., Παπαδήμα Σ., Μωραΐτης Π., Σταθόπουλος Β., Τσιόγκας Γ.</p>
 
       <p class="text-center">15:30-17:00</p>
     </v-row>
@@ -171,8 +173,7 @@
       <h3 class="subtitle-2 text-center">
         (Γ14)
         ΣΤ 90'
-        Aυξητικοί παράγοντες στην Περιοδοντολογία.
-        Ο ρόλος τους
+        Aυξητικοί παράγοντες στην Περιοδοντολογία. Ο ρόλος τους στην περιοδοντική και οστική αναγέννηση
       </h3>
       <p class="text-center">
         <span class="font-weight-bold">Συντονισμός:</span> Σακελλάρη Δ.
@@ -403,7 +404,7 @@
     <v-divider></v-divider>
 
     <v-row justify="center" class="myRow mt-2">
-      <p class="text-center font-weight-bold">15:30-17:00</p>
+      <p class="text-center font-weight-bold">(ΚΛ6) 15:30-17:00</p>
 
       <p class="text-center">
         <span class="font-weight-bold">ΚΛΙΝΙΚΟ ΦΡΟΝΤΙΣΤΗΡΙΟ 6</span>

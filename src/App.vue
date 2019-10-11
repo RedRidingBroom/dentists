@@ -8,7 +8,7 @@
       <v-spacer></v-spacer>
       <v-toolbar-title class="caption test">
         <span class="mr-2">39ο Πανελλήνιο Οδοντιατρικό Συνέδριο</span>
-        <v-img src="../public/img/tooth.png" aspect-ratio="1" height="30" width="30"></v-img>
+        <v-img src="../public/img/logo.png" aspect-ratio="1" height="30" width="30"></v-img>
       </v-toolbar-title>
 
       <v-btn v-if="whereToShow()" icon right>

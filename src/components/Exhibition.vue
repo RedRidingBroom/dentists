@@ -26,6 +26,20 @@
       </v-col>
     </v-row>
 
+    <v-row justify="center">
+      <v-col cols="12">
+        <v-row justify="center">
+          <v-btn depressed dark color="primary"  @click="images.foyerImg = !images.foyerImg">ΚΑΤΟΨΗ</v-btn>
+        </v-row>
+      </v-col>
+
+      <v-col cols="10" v-if="images.foyerImg">
+        <v-row justify="center">
+          <v-img src="../../public/img/FLOORPLAN_1.jpg" ></v-img>
+        </v-row>
+      </v-col>
+    </v-row>
+
     <v-divider class="mt-10"></v-divider>
 
     <v-row class="mt-3">
@@ -52,6 +66,20 @@
             </tbody>
           </template>
         </v-simple-table>
+      </v-col>
+    </v-row>
+
+    <v-row justify="center">
+      <v-col cols="12">
+        <v-row justify="center">
+          <v-btn depressed dark color="primary"  @click="images.place_a_img = !images.place_a_img">ΚΑΤΟΨΗ</v-btn>
+        </v-row>
+      </v-col>
+
+      <v-col cols="10" v-if="images.place_a_img">
+        <v-row justify="center">
+          <v-img src="../../public/img/FLOORPLAN_2.jpeg" ></v-img>
+        </v-row>
       </v-col>
     </v-row>
 
@@ -83,6 +111,20 @@
         </v-simple-table>
       </v-col>
     </v-row>
+
+     <v-row justify="center">
+      <v-col cols="12">
+        <v-row justify="center">
+          <v-btn depressed dark color="primary"  @click="images.place_b_img = !images.place_b_img">ΚΑΤΟΨΗ</v-btn>
+        </v-row>
+      </v-col>
+
+      <v-col cols="10" v-if="images.place_b_img">
+        <v-row justify="center">
+          <v-img src="../../public/img/FLOORPLAN_3.jpeg" ></v-img>
+        </v-row>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
@@ -90,6 +132,11 @@
 export default {
   data() {
     return {
+      images: {
+        foyerImg: false,
+        place_a_img: false,
+        place_b_img: false
+      },
       foyer: [
         { company: "ORAL-B", number: "1" },
         { company: "COLGATE", number: "2" },
