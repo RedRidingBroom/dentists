@@ -14,6 +14,8 @@
       <v-btn v-if="whereToShow()" icon right>
         <v-icon @click="showTextField = !showTextField; searchText=''">mdi-magnify</v-icon>
       </v-btn>
+
+      
       <!-- <v-btn fixed @click="findString('Συντονισμός')">hi</v-btn> -->
     </v-app-bar>
 
@@ -43,6 +45,19 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
+
+    <v-snackbar
+      v-model="$store.state.snackbar"
+    >
+      adsdaadsasd
+      <v-btn
+        color="pink"
+        text
+        @click="$store.state.snackbar = false"
+      >
+        Close
+      </v-btn>
+    </v-snackbar>
   </v-app>
 </template>
 
@@ -51,6 +66,7 @@ export default {
   name: "App",
 
   data: () => ({
+
     drawer: null,
     showTextField: false,
     searchText: "",

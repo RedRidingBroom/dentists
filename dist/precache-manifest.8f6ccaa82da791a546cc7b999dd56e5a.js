@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "06ace57f05fbddfedd971620959575e9",
+    "revision": "08a727405f89e6021959c4c179d1e3cb",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/tooth.png"
   },
   {
-    "revision": "a1d89d85b15743e29f06",
-    "url": "/js/chunk-vendors.28b93824.js"
+    "revision": "a0a1e8f1d2274365c02f",
+    "url": "/js/chunk-vendors.25764c3c.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/img/vitsaro.445a48e1.png"
   },
   {
-    "revision": "fc235da91a150e2085ff",
-    "url": "/js/app.e3df279b.js"
+    "revision": "9d70c47a3c2534cb17b5",
+    "url": "/js/app.00652c89.js"
   },
   {
     "revision": "e604a4139e0311b82675477e34e2d1bf",
@@ -120,11 +120,11 @@ self.__precacheManifest = [
     "url": "/img/39president.jpeg"
   },
   {
-    "revision": "a1d89d85b15743e29f06",
-    "url": "/css/chunk-vendors.d05054b5.css"
+    "revision": "a0a1e8f1d2274365c02f",
+    "url": "/css/chunk-vendors.afc21461.css"
   },
   {
-    "revision": "fc235da91a150e2085ff",
+    "revision": "9d70c47a3c2534cb17b5",
     "url": "/css/app.f7063a4b.css"
   }
 ];
