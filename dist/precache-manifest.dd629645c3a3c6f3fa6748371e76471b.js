@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "b62e842c90619b016e66413c8390a287",
+    "revision": "bba04c133c415960cccf5bf0dbb9d361",
     "url": "/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/img/vitsaro.445a48e1.png"
   },
   {
-    "revision": "9d70c47a3c2534cb17b5",
-    "url": "/js/app.00652c89.js"
+    "revision": "7d73ae40a0d747dd384f",
+    "url": "/js/app.9a47ba73.js"
   },
   {
     "revision": "e604a4139e0311b82675477e34e2d1bf",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.afc21461.css"
   },
   {
-    "revision": "9d70c47a3c2534cb17b5",
+    "revision": "7d73ae40a0d747dd384f",
     "url": "/css/app.f7063a4b.css"
   }
 ];

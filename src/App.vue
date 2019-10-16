@@ -49,7 +49,7 @@
     <v-snackbar
       v-model="$store.state.snackbar"
     >
-      adsdaadsasd
+      Μην ξεχάσετε να κάνετε την εφαρμογή "Add to Desktop"
       <v-btn
         color="pink"
         text

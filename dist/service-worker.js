@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e029caa78ead1f7aa294f772b2310aa1.js"
+  "/precache-manifest.dd629645c3a3c6f3fa6748371e76471b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dentists"});
